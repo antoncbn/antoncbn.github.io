@@ -3,8 +3,8 @@ published: true
 title: Pilih Mana Github, Blogspot, atau Wordpress
 layout: post
 section-type: post
-tags: [Blogging]
-categories: [Tutorial]
+tags: [tutorial]
+category: blogging
 ---
 <pre><code data-trim class="yaml">
 events:
