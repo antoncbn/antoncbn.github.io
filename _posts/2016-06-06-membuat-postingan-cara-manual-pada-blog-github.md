@@ -25,7 +25,8 @@ category: tech
 Langkah selanjutnya anda harus memasukan url dengan format:
 <pre><code data-trim class="yaml">YYYY-MM-DD-judul-postingan-anda.markdown
 atau lebih jelasnya seperti ini
-2016-06-06-membuat-postingan-cara-manual-pada-blog-github.markdown</code></pre>
+2016-06-06-membuat-postingan-cara-manual-pada-blog-github.md</code></pre>
+
 
 Anda bisa memulai menulis artikel pada kolom editor.
 
@@ -34,8 +35,11 @@ Buat tulisan yang menarik dan sesimple mungkin agar mudah dipahami.
 Sebagai contoh sebuah postingan yang menggunakan gambar ditulis dengan format 
 <pre><code>![Boat](https://antoncbn.github.io/img/boat.jpeg)</code></pre>
 
+
 Maka tampilannya akan menjadi seperti ini
 
 ![Boat](https://antoncbn.github.io/img/boat.jpeg)
 
 Selamat mencoba, terimakasih
+
+Baca juga tutorial membuat postingan secara otomatis di blog github <a href="https://antoncbn.github.io/2016/06/06/menulis-postingan-dan-secara-otomatis-akan-ter-upload.html"> [ MENULIS POSTINGAN DAN SECARA OTOMATIS AKAN TER UPLOAD ]</a>
