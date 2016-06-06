@@ -1,9 +1,10 @@
 ---
+published: true
+title: Pilih Mana Github, Blogspot, atau Wordpress
 layout: post
 section-type: post
-title: Pilih Mana Github, Blogspot, atau Wordpress
-category: tech
-tags: [ 'tutorial' ]
+tags: [Blogging]
+categories: [Tutorial]
 ---
 <pre><code data-trim class="yaml">
 events:
