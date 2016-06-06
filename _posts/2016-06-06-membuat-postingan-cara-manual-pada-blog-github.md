@@ -8,10 +8,12 @@ category: tech
 ---
 
 Jika anda ingin membuat postingan blog pada github, anda cukup dengan melakukan hal berikut ini:
-1. masuk ke direktori _posts
-2. buatlah file baru dengan cara meng klik create file
-3. pada bagian edit area cukup masukan kode berikut ini hanya contoh <b>FORMAT</b> anda bisa mengeditnya secara manual.
-<pre><code>---
+Masuk ke direktori <mark>_posts</mark>
+
+Buatlah file baru dengan cara meng klik create file
+
+Pada bagian edit area cukup masukan kode berikut ini hanya contoh <b>FORMAT</b> anda bisa mengeditnya secara manual.
+<pre><code data-trim class="yaml">---
 published: true
 title: Membuat Postingan Cara Manual Pada Blog Github
 layout: post
@@ -19,10 +21,14 @@ section-type: post
 tags: [tutorial]
 category: tech
 ---</code></pre>
-4. langkah selanjutnya anda harus memasukan url dengan format:
-<pre><code>YYYY-MM-DD-judul-postingan-anda.markdown
+
+Langkah selanjutnya anda harus memasukan url dengan format:
+<pre><code data-trim class="yaml">YYYY-MM-DD-judul-postingan-anda.markdown
 atau lebih jelasnya seperti ini
 2016-06-06-membuat-postingan-cara-manual-pada-blog-github.markdown</code></pre>
-5. anda bisa memulai menulis artikel pada kolom editor.
-6. buat tulisan yang menarik dan sesimple mungkin agar mudah dipahami.
-7. selamat mencoba, terimakasih
+
+Anda bisa memulai menulis artikel pada kolom editor.
+
+Buat tulisan yang menarik dan sesimple mungkin agar mudah dipahami.
+
+Selamat mencoba, terimakasih
