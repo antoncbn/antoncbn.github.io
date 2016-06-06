@@ -1,9 +1,9 @@
 ---
 published: true
-title: Menulis Postingan dan Secara Otomatis akan ter Upload
+title: Cara Menulis Postingan dan Otomatis akan ter Upload
 layout: post
 section-type: post
-category: blogging
+category: tech
 tags: [ 'tutorial']
 
 ---
