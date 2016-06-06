@@ -6,8 +6,7 @@ section-type: post
 tags: [tutorial]
 category: blogging
 ---
-<pre><code data-trim class="yaml">
-events:
+<pre><code>events:
   - image: "/img/timeline/spidertocat.png"
     date: "September 2013 - Today"
     description: "Saving the neighborhood!"
