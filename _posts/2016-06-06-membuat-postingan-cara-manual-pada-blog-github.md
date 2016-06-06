@@ -42,4 +42,4 @@ Maka tampilannya akan menjadi seperti ini
 
 Selamat mencoba, terimakasih
 
-Baca juga tutorial membuat postingan secara otomatis di blog github <a href="https://antoncbn.github.io/2016/06/06/menulis-postingan-dan-secara-otomatis-akan-ter-upload.html"> [ MENULIS POSTINGAN DAN SECARA OTOMATIS AKAN TER UPLOAD ]</a>
+Baca juga tutorial membuat postingan secara otomatis di blog github <a href="https://antoncbn.github.io/tech/2016/06/06/menulis-postingan-dan-secara-otomatis-akan-ter-upload.html"> [ MENULIS POSTINGAN DAN SECARA OTOMATIS AKAN TER UPLOAD ]</a>
