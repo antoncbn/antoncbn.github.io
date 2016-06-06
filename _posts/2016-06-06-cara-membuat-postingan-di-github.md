@@ -15,8 +15,7 @@ Mungkin masih banyak sobat blogger yang masih bingun dalam menulis sebuah postin
 ![SkyLine](https://antoncbn.github.io/img/City%20Skyline%20Beside%20Water%20during%20Night.jpeg)
 
 2.Dengan pre
-<pre><code data-trim class="Phyton">
-##############################
+<pre><code data-trim class="Phyton">##############################
 # Color the browser elements #
 ##############################
 color-browser: "#000000"
