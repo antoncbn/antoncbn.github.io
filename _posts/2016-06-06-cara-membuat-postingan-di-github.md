@@ -3,7 +3,7 @@ published: true
 title: Cara Membuat Postingan Di Github
 layout: post
 section-type: post
-tags: [Tutorial]
+tags: [tutorial]
 category: [Blogging]
 ---
 Pada Kesempatan kali ini saya akan membagikan sebuah tutorial yang menjelaskan tentang cara menulis postingan di blog github.
