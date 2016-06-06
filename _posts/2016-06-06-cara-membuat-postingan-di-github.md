@@ -16,8 +16,10 @@ Mungkin masih banyak sobat blogger yang masih bingun dalam menulis sebuah postin
 
 2.Dengan pre
 <pre><code data-trim class="Phyton">##############################
-# Color the browser elements #
+# Antoncabon on github #
 ##############################
-color-browser: "#000000"
-apple-status-bar-style: "black"
+color-browser: "#ffffff"
+status-bar-style: "black"
 </code></pre>
+
+Baca totorial secara lengkap di <a href="https://antoncbn.github.io/tech/2016/06/06/membuat-postingan-cara-manual-pada-blog-github.html"> [Tutorial Menulis Postingan]</a>
