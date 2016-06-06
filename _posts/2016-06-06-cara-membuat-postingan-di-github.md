@@ -22,4 +22,4 @@ color-browser: "#ffffff"
 status-bar-style: "black"
 </code></pre>
 
-Baca totorial secara lengkap di <a href="https://antoncbn.github.io/tech/2016/06/06/membuat-postingan-cara-manual-pada-blog-github.html"> [Tutorial Menulis Postingan]</a>
+Baca tutorial secara lengkapnya pada postingan saya berikut ini <a href="https://antoncbn.github.io/tech/2016/06/06/membuat-postingan-cara-manual-pada-blog-github.html"> [ Tutorial Lengkap Menulis Postingan ]</a>
