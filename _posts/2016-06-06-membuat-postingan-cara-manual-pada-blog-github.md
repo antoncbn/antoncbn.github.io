@@ -32,10 +32,10 @@ Anda bisa memulai menulis artikel pada kolom editor.
 Buat tulisan yang menarik dan sesimple mungkin agar mudah dipahami.
 
 Sebagai contoh sebuah postingan yang menggunakan gambar ditulis dengan format 
-<pre><code>![SkyLine](https://antoncbn.github.io/img/City%20Skyline%20Beside%20Water%20during%20Night.jpeg)</code></pre>
+<pre><code>![Boat](https://antoncbn.github.io/img/boat.jpeg)</code></pre>
 
 Maka tampilannya akan menjadi seperti ini
 
-[SkyLine](https://antoncbn.github.io/img/City%20Skyline%20Beside%20Water%20during%20Night.jpeg)
+![Boat](https://antoncbn.github.io/img/boat.jpeg)
 
 Selamat mencoba, terimakasih
