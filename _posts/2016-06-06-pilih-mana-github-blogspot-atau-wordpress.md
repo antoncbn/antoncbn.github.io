@@ -1,11 +1,10 @@
 ---
-published: true
-title: Pilih Mana Github, Blogspot, atau Wordpress
 layout: post
-tags: [Blogging]
-categories: [Tutorial]
+section-type: post
+title: Pilih Mana Github, Blogspot, atau Wordpress
+category: tech
+tags: [ 'tutorial' ]
 ---
-
 <pre><code data-trim class="yaml">
 events:
   - image: "/img/timeline/spidertocat.png"
